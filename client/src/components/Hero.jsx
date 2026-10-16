@@ -216,7 +216,7 @@ export default function Hero() {
                 blur-2xl scale-110 animate-pulse-slow" aria-hidden="true" />
 
               {/* Avatar container */}
-              <div className="relative w-72 h-72 sm:w-80 sm:h-80 rounded-3xl overflow-hidden
+              <div className="relative w-80 h-80 sm:w-96 sm:h-96 lg:w-[480px] lg:h-[480px] rounded-3xl overflow-hidden
                 border border-emerald-500/25 shadow-2xl shadow-black/50 animate-float">
                 {/* Profile Image */}
                 <img
